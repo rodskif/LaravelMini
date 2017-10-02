@@ -7,3 +7,7 @@ In mini blog implemented:
   - view all articles
   - view simple page with chosen article
   - ability to add and delete article
+---------------------------------------
+!!! You must have installed Laravel !!!
+---------------------------------------
+Here only changed and added files with saved structure.
